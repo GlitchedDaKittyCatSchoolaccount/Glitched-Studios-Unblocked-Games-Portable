@@ -17,7 +17,7 @@ a github repo to deploy your own copy of Glitched Studios Unblocked Games
 [![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable)
-[![Depoly With Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=glitched-studios-unblocked-games-portable&type=git&repository=GlitchedDaKittyCatSchoolaccount%2FGlitched-Studios-Unblocked-Games-Portable&branch=main&builder=buildpack&env%5B%5D=&ports=8000%3Bhttp%3B%2F)
 ## extra
 
 - any deploy service should work just fine
