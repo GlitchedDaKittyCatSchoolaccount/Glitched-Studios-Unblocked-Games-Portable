@@ -1,5 +1,5 @@
 # Glitched Studios Unblocked Games Portable
-### Thxs To Szvy, Forgiee1 For The Proxy Code
+### Thxs To Szvy, Frogiee1 For The Proxy Code
 
 ## overview
 
