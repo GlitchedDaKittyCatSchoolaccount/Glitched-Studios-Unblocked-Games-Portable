@@ -3,7 +3,7 @@ services:
 - type: web
   name: funmathsite
   runtime: node
-  repo: https://github.com/szvy/szvycentral-portable
+  repo: https://github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable
   plan: free
   region: oregon
   buildCommand: npm i
