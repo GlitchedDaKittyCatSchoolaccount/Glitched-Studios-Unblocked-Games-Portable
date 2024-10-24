@@ -1,4 +1,5 @@
-# szvy central v2 portable
+# Glitched Studios Unblocked Games Portable
+### Thxs To Szvy, Forgiee1 For The Proxy Code
 
 ## overview
 
@@ -15,6 +16,7 @@ a github repo to deploy your own copy of Glitched Studios Unblocked Games
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable)
 [![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GlitchedDaKittyCatSchoolaccount/Glitched-Studios-Unblocked-Games-Portable)
 
 ## extra
 
